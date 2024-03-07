@@ -3,9 +3,9 @@
 @import url('colors.css');
 
 .light {
-  --mainColor: var(--colorColormain);       
-  --hoverColor: var(--colorColorHover);    
-  --backgroundColor: var(--colorColorBackground);    
+  --mainColor: var(--colorColorMaincolor);       
+  --hoverColor: var(--colorColorHovercolor);    
+  --backgroundColor: var(--colorColorBackgroundcolor);    
   --darkOne: var(--colorColorDarkone);    
   --darkTwo: var(--colorColorDarktwo);    
   --lightOne: var(--colorColorLightone);    
